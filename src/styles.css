@@ -1,0 +1,13 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+/* @import './custom-theme'; */
+
+body {
+    margin: 0;
+    font-family: Roboto, sans-serif;
+}
+
+mat-card {
+    max-width: 80%;
+    margin: 2em auto;
+    text-align: center;
+  }
